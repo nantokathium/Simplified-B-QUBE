@@ -1,0 +1,15 @@
+.sidemenu_content,
+#pagerListBox,
+#pagerTabBox,
+#topHeaderBar,
+#understand_area
+{
+    display: none;
+}
+
+html {
+    transform: scale(0.9);
+    transform-origin: left top;
+    height: calc(100% / 0.9);
+    width: calc(100% / 0.9);
+}
