@@ -1,4 +1,4 @@
-# Refined B-QUBE
+# Simplified B-QUBE
 
 本リポジトリの style.css の中身をStylus等のブラウザ拡張機能に導入することで、B-QUBEのUIを簡潔にし、利便性を高めることができます。
 
